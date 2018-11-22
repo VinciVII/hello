@@ -1,2 +1,5 @@
 # hello
-first
+
+Hi!
+
+It's my first repo.
